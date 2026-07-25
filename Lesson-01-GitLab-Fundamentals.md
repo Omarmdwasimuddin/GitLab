@@ -279,7 +279,3 @@ Today you learned:
 - CI/CD
 - Architecture
 - Components
-
-## Next Lesson
-
-**Lesson 02 — Docker Fundamentals for GitLab CI/CD**
