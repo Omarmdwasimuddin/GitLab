@@ -35,7 +35,7 @@ GitLab হলো একটা all-in-one DevOps platform। Jenkins শুধু
 
 ### GitLab.com (SaaS)
 
-সরাসরি **gitlab.com** এ account খুলে ব্যবহার করা, install করা লাগে না। কিন্তু তুমি বলেছ **"local machine e kivabe setup"** শিখতে চাও, তাই এটা আমরা skip করব practical অংশে।
+সরাসরি **gitlab.com** এ account খুলে ব্যবহার করা, install করা লাগে না। 
 
 ### Self-hosted GitLab (GitLab CE - Community Edition)
 
