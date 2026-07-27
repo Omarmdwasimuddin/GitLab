@@ -12,3 +12,7 @@
 | 08 | Docker + GitLab CI | Build & push Docker images via GitLab CI, Container Registry |
 | 09 | Production-grade Pipeline | Multi-stage (build→test→deploy), approvals, protected branches, secrets management |
 | 10 | Advanced | Merge request pipelines, GitLab CI templates, self-hosted runners on EC2, monitoring |
+---
+
+
+#### Class 01: [Create a GitLab.com (SaaS) Account and Your First Project](https://github.com/Omarmdwasimuddin/GitLab-Account)
