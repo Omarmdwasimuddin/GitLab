@@ -16,3 +16,4 @@
 
 
 #### Class 01: [Create a GitLab.com (SaaS) Account and Your First Project](https://github.com/Omarmdwasimuddin/GitLab-Account)
+#### Class 02: []()
