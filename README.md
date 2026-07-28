@@ -19,3 +19,4 @@
 #### Class 02: [GitLab SSH Key Setup](https://github.com/Omarmdwasimuddin/GitLab-SSH-Key)
 #### Class 03: [GitLab Group and Project Creation](https://github.com/Omarmdwasimuddin/Gitlab-Groups-Projects)
 #### Class 04: [GitLab Branching & Merge Request](https://github.com/Omarmdwasimuddin/Gitlab-Branch)
+#### Class 05: [GitLab Runner](https://github.com/Omarmdwasimuddin/Gitlab-Runner)
