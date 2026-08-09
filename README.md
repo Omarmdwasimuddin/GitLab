@@ -3,3 +3,7 @@
 #### Class 03: [GitLab Group and Project Creation](https://github.com/Omarmdwasimuddin/Gitlab-Groups-Projects)
 #### Class 04: [GitLab Branching & Merge Request](https://github.com/Omarmdwasimuddin/Gitlab-Branch)
 #### Class 05: [GitLab Runner](https://github.com/Omarmdwasimuddin/Gitlab-Runner)
+#### Class 06: []()
+#### Class 07: []()
+#### Class 08: []()
+#### Class 09: []()
