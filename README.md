@@ -7,3 +7,11 @@
 #### Class 07: [Docker Desktop: GitLab Server with Docker Compose](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Server-with-Docker-Compose)
 #### Class 08: [Docker Desktop: GitLab Server vs GitLab Runner](https://github.com/Omarmdwasimuddin/Docker-Desktop-GitLab-Server-vs-GitLab-Runner)
 #### Class 09: [Docker Desktop: GitLab Runner Setup and Registration](https://github.com/Omarmdwasimuddin/Docker-Desktop-Register-GitLab-Runner-with-GitLab-Server)
+
+
+---
+
+## Concept
+#### [GitLab CI/CD]()
+
+---
