@@ -12,6 +12,6 @@
 ---
 
 ## Concept
-#### [GitLab CI/CD]()
+#### [GitLab CI/CD](https://github.com/Omarmdwasimuddin/GitLab-CI-CD)
 
 ---
